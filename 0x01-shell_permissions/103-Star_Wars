@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -s telnet://towel.blinkenlights.nl | pv -qL 800
+telnet towel.blinkenlights.nl
